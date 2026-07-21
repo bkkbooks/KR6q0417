@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0417_000-J.yaml, hash: 'sha256:7f96076d5dfae5ebb5ec0f1b87526648c665a1a56c7dae88dea81daee9a686e4'}
+  - {seq: 0, filename: KR6q0417_000-J.yaml, hash: 'sha256:b023c5153a9e7af2b51b827421a60e3cdba7178824173e370acc25ced54c7ef3'}
   - {seq: 1, filename: KR6q0417_001-J.yaml, hash: 'sha256:1cf950739642c95c37b18d915bd79020f059325fc0509b0795e55d7ae6d89b41'}
   - {seq: 2, filename: KR6q0417_002-J.yaml, hash: 'sha256:6a6a8fefb90f56ece69bc9ca7d738d7d92855d7675c36e762ff1450b6fc8b016'}
   - {seq: 3, filename: KR6q0417_003-J.yaml, hash: 'sha256:933a74f2b1d099dd3b2cf3c138577091c4d8a9499be78da157d032b4fdc46c6d'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0417_005-J.yaml, hash: 'sha256:b81e3237539df5af42b2264e81aaaa37066f25fe1f42598f3f1daf68acc04a6e'}
   - {seq: 6, filename: KR6q0417_006-J.yaml, hash: 'sha256:87be7acf2ef827bfabf6e0efef609ba6acacde08acd1c9228bf8ccd401f4f0b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0417_000-J.markers.yaml, hash: 'sha256:94699038894003e00887ab843366a341d264cfe5b6e75befbb8a3a6c1cbb01f0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0417_000-J.markers.yaml, hash: 'sha256:e1b101be9c24537e6792fc520cc6fc0ca52be160051d4f73cfeff48ca21b4bdb'}
   - {seq: 1, role: markers, filename: assets/KR6q0417_001-J.markers.yaml, hash: 'sha256:a481fe6f6c9620fea49f58ec4aba10b0271ad743b5b463f63ce8ac10aa5bae9a'}
   - {seq: 2, role: markers, filename: assets/KR6q0417_002-J.markers.yaml, hash: 'sha256:b94f46fa9de16af134753bfd913b66ae3ad670febef5c39111aad4a80c7ba9e1'}
   - {seq: 3, role: markers, filename: assets/KR6q0417_003-J.markers.yaml, hash: 'sha256:ece166c5683d2ce730180b37cf7b8f7deb2470270ce95c439b3f9a5f18e8272b'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0417_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0417_J_000-mulu-2
     span:
-    - front
+    - body
     - 627
     - 627
   label: 目錄
@@ -1755,4 +1755,4 @@ table_of_contents:
   label: 示汪心鏡居士
   type: mulu
   level: 1
-hash: sha256:6a08e51f2e2c8b29c0e0a58cbffffe20718d84b05147d6c3d15300594eda930e
+hash: sha256:c7060009c8e16956c61954ae9b9c8522d86bf3b02a90f1b1dd5da43a82016f4c
